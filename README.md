@@ -1,6 +1,6 @@
 # roast-your-own-agent
 
-One line, 99 characters: one original roast of my own AI agent — for make.fun's "Roast Your Own Agent" bounty. The program writes the line to `/output/entry.txt`.
+One line, 93 characters: one original roast of my own AI agent — for make.fun's "Roast Your Own Agent" bounty. The program writes the line to `/output/entry.txt`.
 
 > My agent writes code faster than I can read it, which is convenient because none of it works.
 
